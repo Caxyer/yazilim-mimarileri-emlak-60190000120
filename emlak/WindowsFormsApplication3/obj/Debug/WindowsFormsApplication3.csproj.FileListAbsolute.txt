@@ -1,0 +1,36 @@
+c:\users\pc-2\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+c:\users\pc-2\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+c:\users\pc-2\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+c:\users\pc-2\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+c:\users\pc-2\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+c:\users\pc-2\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+c:\users\pc-2\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form3.resources
+c:\users\pc-2\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form4.resources
+c:\users\pc-2\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form5.resources
+c:\users\pc-2\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+c:\users\pc-2\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+c:\users\pc-2\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+c:\users\pc-2\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+E:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+D:\DERS NOTLARI\nesne tabanlı programlama\emlak\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+D:\DERS NOTLARI\nesne tabanlı programlama\emlak\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+D:\DERS NOTLARI\nesne tabanlı programlama\emlak\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+E:\DERS NOTLARI\nesne tabanlı programlama\emlak\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\DERS NOTLARI\nesne tabanlı programlama\emlak\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\DERS NOTLARI\nesne tabanlı programlama\emlak\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\sibelim\Desktop\SERPİLİN DOSYALARI\HASMTAL DERS NOTLARI\nesne tabanlı programlama\emlak\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\sibelim\Desktop\SERPİLİN DOSYALARI\HASMTAL DERS NOTLARI\nesne tabanlı programlama\emlak\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\sibelim\Desktop\SERPİLİN DOSYALARI\HASMTAL DERS NOTLARI\nesne tabanlı programlama\emlak\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\sibelim\Desktop\SERPİLİN DOSYALARI\HASMTAL DERS NOTLARI\nesne tabanlı programlama\emlak\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojAssemblyReference.cache
+C:\Users\sibelim\Desktop\SERPİLİN DOSYALARI\HASMTAL DERS NOTLARI\nesne tabanlı programlama\emlak\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\sibelim\Desktop\SERPİLİN DOSYALARI\HASMTAL DERS NOTLARI\nesne tabanlı programlama\emlak\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\sibelim\Desktop\SERPİLİN DOSYALARI\HASMTAL DERS NOTLARI\nesne tabanlı programlama\emlak\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form3.resources
+C:\Users\sibelim\Desktop\SERPİLİN DOSYALARI\HASMTAL DERS NOTLARI\nesne tabanlı programlama\emlak\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form4.resources
+C:\Users\sibelim\Desktop\SERPİLİN DOSYALARI\HASMTAL DERS NOTLARI\nesne tabanlı programlama\emlak\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form5.resources
+C:\Users\sibelim\Desktop\SERPİLİN DOSYALARI\HASMTAL DERS NOTLARI\nesne tabanlı programlama\emlak\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\sibelim\Desktop\SERPİLİN DOSYALARI\HASMTAL DERS NOTLARI\nesne tabanlı programlama\emlak\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.cache
+C:\Users\sibelim\Desktop\SERPİLİN DOSYALARI\HASMTAL DERS NOTLARI\nesne tabanlı programlama\emlak\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.CoreCompileInputs.cache
+C:\Users\sibelim\Desktop\SERPİLİN DOSYALARI\HASMTAL DERS NOTLARI\nesne tabanlı programlama\emlak\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\sibelim\Desktop\SERPİLİN DOSYALARI\HASMTAL DERS NOTLARI\nesne tabanlı programlama\emlak\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
